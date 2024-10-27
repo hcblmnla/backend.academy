@@ -1,0 +1,2 @@
+192.168.1.10 - - [14/Oct/2024:10:15:30 +0300] "GET /index.html HTTP/1.1" 200 1024 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+203.0.113.55 - - [14/Oct/2024:10:15:35 +0300] "POST /login HTTP/1.1" 302 512 "http://example.com/" "Mozilla/5.0 (X11; Linux x86_64)"

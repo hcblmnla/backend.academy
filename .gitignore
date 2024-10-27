@@ -1,0 +1,21 @@
+### Project ##
+!**/src/main/**
+!**/src/test/**
+
+### Maven ###
+!**/.mvn/wrapper/maven-wrapper.jar
+**/target/
+**/.flattened-pom.xml
+**/dependency-reduced-pom.xml
+
+### IntelliJ IDEA ###
+**/.idea/
+**/*.iws
+**/*.iml
+**/*.ipr
+
+### Scala SBT
+**/.bsp
+
+### log files ###
+**/hs_err_pid*
